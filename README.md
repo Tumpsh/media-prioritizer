@@ -1,0 +1,2 @@
+# media-prioritizer
+A system which will (eventually) tell my TV what to play. Based on a simple configurations (ordered conditional statements, such as "Is there a Seahawks game going on?", "Is it between 5:00 and 5:30 on a Friday?", "Is Riot Games live on twitch?", I would like the app to recognize the highest priority condition which is true, and perform an action (play the Seahawks game, switch to channel X, open Riot Games' stream)
